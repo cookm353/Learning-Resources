@@ -56,6 +56,7 @@ This channel needs section unto itself.  Rather than provide a description, I'll
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 ## Websites
+* [Real Python](https://realpython.com/)
 * [QuantEcon DataScience: Introduction to Economic Modeling and Data Science](https://datascience.quantecon.org/)
 * [Data to Fish](https://datatofish.com/python-tutorials/)
 * [Intermediate Python](https://book.pythontips.com/en/latest/index.html#)
