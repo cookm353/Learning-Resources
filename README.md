@@ -54,11 +54,15 @@ This channel needs section unto itself.  Rather than provide a description, I'll
 * [Python for Everybody](http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf)
 * [Cracking Codes with Python](https://inventwithpython.com/cracking/)
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+* [Algorithms, 4th Edition](https://algs4.cs.princeton.edu/home/)
+* [Think Complexity](http://greenteapress.com/complexity/thinkcomplexity.pdf)
 
 ## Websites
 * [Real Python](https://realpython.com/)
 * [QuantEcon DataScience: Introduction to Economic Modeling and Data Science](https://datascience.quantecon.org/)
 * [Data to Fish](https://datatofish.com/python-tutorials/)
+* [Free books and other resources](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#python)
+* [Python Practice Book](https://anandology.com/python-practice-book/index.html)
 * [Intermediate Python](https://book.pythontips.com/en/latest/index.html#)
 * [Python Like You Mean It](https://www.pythonlikeyoumeanit.com/index.html)
 * [Python 3 Module of the Week](https://pymotw.com/3/)
