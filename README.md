@@ -13,24 +13,51 @@ In starting my learning process, I've found a wide range of resources to use to 
 * [Tech with Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg) - A Python focused channel with a variety of playlists.  You can find ones focusing on machine learning, neural networks, individual modules (Kivy, PyQt5, Selenium, Django, NumPy, etc.), and general Python programming playlists as well.
 
 #### [MIT OpenCourseWare](https://www.youtube.com/user/MIT)
-This channel needs section unto itself.  Rather than provide a description, I'll simply provide links to playlists of courses.  I'll organize this section a little better when I have an opportunity.
+This channel needs section unto itself.  Rather than provide a description, I'll simply provide links to playlists of courses.
 
+##### General Programming
 * [6.0001 - Intro to Computer Science and Programming in Python, Fall 2016](https://www.youtube.com/watch?v=nykOeWgQcHM&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
-* [6.0002 - Intro to Computational Thinking and Data Science, Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd)
-* [6.0004 - Computation Structures, Spring 2017](https://www.youtube.com/playlist?list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2)
-* [6.006 - Intro to Algorithms, Fall 2011](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
-* [6.046J - Design and Analysis of Algorithms, Spring 2015](https://www.youtube.com/playlist?list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp)
-* [6.042J - Mathematics for Computer Science, Spring 2015](https://www.youtube.com/playlist?list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ)
-* [6.262 - Discrete Stochastic Processes, Spring 2011](https://www.youtube.com/playlist?list=PLEEF5322B331C1B98)
-* [6.851 - Advanced Data Structures, Spring 2012](https://www.youtube.com/playlist?list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf)
-* [6.041SC - Probabilistic Systems Analysis and Applied Probability, Fall 2013](https://www.youtube.com/playlist?list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe)
+* [6.0004 - Computation Structures, Spring 2017](https://www.youtube.com/playlist?list=PLUl4u3cNGP62WVs95MNq3dQBqY2vGOtQ2), pre-reqs: 6.0001
+* [6.851 - Advanced Data Structures, Spring 2012](https://www.youtube.com/playlist?list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf), pre-reqs: 6.046
+
+###### Algorithms
+* [6.006 - Intro to Algorithms, Fall 2011](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb), pre-reqs: 6.042, 6.0001
+* [6.046J - Design and Analysis of Algorithms, Spring 2015](https://www.youtube.com/playlist?list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp), pre-reqs: 6.006
+
+##### Math
+
+###### General
+* [6.042J - Mathematics for Computer Science, Spring 2015](https://www.youtube.com/playlist?list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ), pre-req: 18.01
 * [RES.LL-005 - Mathematics of Big Data and Machine Learning, Spring 2020](https://www.youtube.com/playlist?list=PLUl4u3cNGP62uI_DWNdWoIMsgPcLGOx-V)
-* [18.06SC - Linear Algebra, Fall 2011](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C)
+
+###### Linear Algebra
+* [18.06 - Linear Algebra, Spring 2005](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8), pre-req: 18.01
+* [18.065 - Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k), pre-reqs: 18.06
+
+##### Probability and Statistics
+* [6.041 - Probabilistic Systems Analysis and Applied Probability, Fall 2010](https://www.youtube.com/playlist?list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8)
+* [6.262 - Discrete Stochastic Processes, Spring 2011](https://www.youtube.com/playlist?list=PLEEF5322B331C1B98), pre-reqs: 6.431 or 6.436
+
+###### Calculus
+* [18.01 - Single Variable Calculus, Fall 2006](https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1)
+* [18.02 - Multivariable Calculus, Fall 2007](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38), pre-req: 18.01
+
+##### Data Science and Analytics
+* [6.0002 - Intro to Computational Thinking and Data Science, Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd), pre-reqs: 6.0001
 * [15.071 - The Analytics Edge, Spring 2017](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Q_FSXJUGkDJs1SMj5teGq)
-* [19.065 - Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
+
 
 ## Books
+* [Automate the Boring Stuff](https://automatetheboringstuff.com/)
+* [Think Python](http://greenteapress.com/thinkpython2/thinkpython2.pdf)
+* [Python Crash Course](https://www.amazon.com/Python-Crash-Course-Hands-Project-Based/dp/1593276036)
+* [Python for Everybody](http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf)
+* [Cracking Codes with Python](https://inventwithpython.com/cracking/)
+* [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 ## Websites
-
-## MOOCs
+* [QuantEcon DataScience: Introduction to Economic Modeling and Data Science](https://datascience.quantecon.org/)
+* [Data to Fish](https://datatofish.com/python-tutorials/)
+* [Intermediate Python](https://book.pythontips.com/en/latest/index.html#)
+* [Python Like You Mean It](https://www.pythonlikeyoumeanit.com/index.html)
+* [Python 3 Module of the Week](https://pymotw.com/3/)
